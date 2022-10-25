@@ -18,7 +18,7 @@ const robertalvv = {
 
 - 📫 How to reach me **alvarezrobert150@gmail.com**
 
-- 📄 Know about my experiences [](I have +3 years developing with Dart and Flutter for the creation of mobile applications.)
+- 📄 Know about my experiences: **I have +3 years developing with Dart and Flutter for the creation of mobile applications.**
 
 <p align="left">
 </p>
