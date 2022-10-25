@@ -14,7 +14,7 @@ const robertalvv = {
 
 - 🌱 I’m currently learning **Kotlin, NodeJS**
 
-- 💬 Ask me about **Flutter, Dart**
+- 💬 Ask me about **Flutter, Dart, Golang**
 
 - 📫 How to reach me **alvarezrobert150@gmail.com**
 
