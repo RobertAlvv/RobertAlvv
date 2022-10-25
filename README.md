@@ -1,4 +1,5 @@
-## Hi I'm Robert 👋
+<h1 align="center">Hi 👋, I'm Robert Alvarez</h1>
+<h3 align="center">A passionate Mobile/Backend Developer From Dominican Republic</h3>
 
 ### about me in code
 
@@ -11,17 +12,12 @@ const robertalvv = {
 }
 ```
 
-
-<h1 align="center">Hi 👋, I'm Robert Alvarez</h1>
-<h3 align="center">A passionate Mobile/Backend Developer From Dominican Republic</h3>
-
 - 🌱 I’m currently learning **Kotlin, NodeJS**
 
 - 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **alvarezrobert150@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
