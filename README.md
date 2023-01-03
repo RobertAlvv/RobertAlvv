@@ -21,8 +21,8 @@ const aboutMe = {
       Python: ["Django"]
     },
   } 
-  tools: [Docker, gRPC],
-  architecture: ["microservices", "event-driver", "clean-arquitecture", "mvvc"]
+  tools: ["Docker", "gRPC"],
+  architecture: ["Microservices", "Event Driver", "Clean Arquitecture", "MVVC"]
   current_occupation: ["I am a Flutter developer at Seek.PE"]
 }
 ```
