@@ -4,10 +4,23 @@
 ### about me in code
 
 ```dart
-const robertalvv = {
-  code: [Dart, Flutter, Golang, Firebase]
-  managementState: [Flutter_Bloc, Provider, Riverpod, GetX, Cubit]
-  tools: [GoFiber, Docker]
+const aboutMe = {
+  technologies: {
+    mobile: {
+      Dart: [
+        "Flutter": {
+            management_state: [Flutter_Bloc, Riverpod, Provider, GetX, Cubit]
+        }
+      ]
+    },
+    database: ["Firebase", "MongoDB", "PostgreSQL", "SQLite", "MySQL", "Redis", "HiveDB", "LocalStorage"],
+    backend: {
+      Go: ["Fiber", "Gin", "Echo"],
+      TypeScript: ["NodeJs - Express"],
+      Python: ["Django"]
+    },
+  } 
+  tools: [Docker],
   architecture: ["microservices", "event-driver", "clean-arquitecture", "mvvc"]
 }
 ```
