@@ -5,10 +5,11 @@
 
 ```dart
 const aboutMe = {
+  code: [Dart, GO, Typescript, Python],
   technologies: {
     mobile: {
       Dart: [
-        "Flutter": {
+        Flutter: {
             management_state: [Flutter_Bloc, Riverpod, Provider, GetX, Cubit]
         }
       ]
@@ -22,6 +23,7 @@ const aboutMe = {
   } 
   tools: [Docker],
   architecture: ["microservices", "event-driver", "clean-arquitecture", "mvvc"]
+  current_occupation: ["I am a Flutter developer at Seek.PE"]
 }
 ```
 
