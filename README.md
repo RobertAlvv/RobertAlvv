@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert Alvarez</h1>
-<h3 align="center">A passionate Mobile/Backend Developer From Dominican Republic</h3>
+<h3 align="center">A passionate mobile/backend developer, specialized in Flutter from Dominican Republic</h3>
 
-### about me in code
+### Do you want to know a little more about me?
 
 ```dart
 const aboutMe = {
