@@ -8,9 +8,9 @@ const aboutMe = {
   code: [Dart, GO, Typescript, Python],
   technologies: {
     mobile: {
-      Dart: [
-        Flutter: {
-            management_state: [Flutter_Bloc, Riverpod, Provider, GetX, Cubit]
+      dart: [
+        flutter: {
+            management_state: ["Flutter_Bloc", "Riverpod", "Provider", "GetX", "Cubit"]
         }
       ]
     },
@@ -21,7 +21,7 @@ const aboutMe = {
       Python: ["Django"]
     },
   } 
-  tools: [Docker],
+  tools: [Docker, gRPC],
   architecture: ["microservices", "event-driver", "clean-arquitecture", "mvvc"]
   current_occupation: ["I am a Flutter developer at Seek.PE"]
 }
