@@ -5,7 +5,7 @@
 
 ```dart
 const aboutMe = {
-  code: [Dart, Kotlin, GO, Python],
+  code: [Dart, GO, Python],
   technologies: {
     mobile: {
       dart: [
@@ -28,7 +28,7 @@ const aboutMe = {
 }
 ```
 
-- 🌱 I’m currently learning **Kotlin, NodeJS**
+- 🌱 I’m currently learning **Kotlin, Swift, Python**
 
 - 💬 Ask me about **Flutter, Dart, Golang**
 
