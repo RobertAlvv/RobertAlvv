@@ -5,7 +5,7 @@
 
 ```dart
 const aboutMe = {
-  code: [Dart, GO, Python],
+  code: ["Dart", "GO", "Python"],
   technologies: {
     mobile: {
       dart: [
@@ -19,10 +19,10 @@ const aboutMe = {
       Go: ["Fiber", "Gin", "Echo"],
       Python: ["Django"],
       TypeScript: ["NodeJs - Express"],
-      Firebase: [FCM, RealTimeDB, Firestore, Dynamic Links, Authentication, Storage, Analytics, AdMob]
+      Firebase: ["FCM", "RealTimeDB", "Firestore", "Dynamic Links", "Authentication", "Storage", "Analytics", "AdMob"]
     },
   } 
-  tools: ["Docker", "gRPC", SOCKET.IO, Sentry],
+  tools: ["Docker", "gRPC", "SOCKET.IO", "Sentry"],
   architecture: ["Clean Arquitecture", "Microservices", "Event Driver", "MVVC"]
   current_occupation: ["I am a Flutter developer at Seek.PE"]
 }
