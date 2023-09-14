@@ -5,7 +5,7 @@
 
 ```dart
 const aboutMe = {
-  code: ["Dart", "GO", "Python"],
+  code: ["Dart", "Python", "JavaScript", "GO"],
   technologies: {
     mobile: {
       dart: [
