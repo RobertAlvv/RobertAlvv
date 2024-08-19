@@ -5,26 +5,26 @@
 
 ```dart
 const aboutMe = {
-  code: ["Dart", "Python", "JavaScript", "GO"],
+  code: ["Dart", "Python", "Kotlin", "Golang"],
   technologies: {
     mobile: {
       dart: [
         flutter: {
-            management_state: ["Flutter_Bloc", "Riverpod", "Provider", "GetX", "Cubit"]
-        }
+            management_state: ["BLoC", "Riverpod", "Cubit", "Provider"]
+        },
       ]
     },
-    database: ["Firebase", "MongoDB", "PostgreSQL", "SQLite", "MySQL", "Redis", "HiveDB", "LocalStorage"],
     backend: {
       Go: ["Fiber", "Gin", "Echo"],
-      Python: ["Django"],
-      TypeScript: ["NodeJs - Express"],
-      Firebase: ["FCM", "RealTimeDB", "Firestore", "Dynamic Links", "Authentication", "Storage", "Analytics", "AdMob"]
+      Python: ["Django", "Flask", "Numpy", "Pandas"],
+      Firebase: ["FCM", "RealTimeDB", "Firestore", "Dynamic Links", "Authentication", "Storage", "Analytics", "AdMob", "Crashlytics", "App Distribution"]
     },
+    database: ["Firebase", "PostgreSQL", "SQLite", "MySQL", "Redis", "HiveDB", "LocalStorage"],
+    distributed_task_queue: ["Celery"],
   } 
   tools: ["Docker", "gRPC", "SOCKET.IO", "Sentry"],
   architecture: ["Clean Arquitecture", "Microservices", "Event Driver", "MVVC"]
-  current_occupation: ["I am a Flutter developer at Seek.PE"]
+  current_occupation: ["I am a Mobile Developer at Seek.PE"]
 }
 ```
 
@@ -34,7 +34,7 @@ const aboutMe = {
 
 - 📫 How to reach me **alvarezrobert150@gmail.com**
 
-- 📄 Know about my experiences: **I have +3 years developing with Dart and Flutter for the creation of mobile applications.**
+- 📄 Know about my experiences: **I have +4 years developing with Dart and Flutter for the creation of mobile applications.**
 
 <p align="left">
 </p>
